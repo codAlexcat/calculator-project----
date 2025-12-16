@@ -6,6 +6,8 @@ num2 = float(input("Второе число: "))
 
 print(add(num1, num2))
 
+def subtract(a, b):
+    return a - b.
 
 
 
